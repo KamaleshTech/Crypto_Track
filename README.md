@@ -8,7 +8,7 @@ A modern, responsive cryptocurrency market dashboard built with Flask, JavaScrip
 
 <br>
 
-<a href="https://cryptotrack-kamalesh.vercel.app">
+<a href="https://crypto-d2d.vercel.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-CryptoTrack-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
 </a>
 <a href="https://github.com/KamaleshTech/Cryto-Track">
